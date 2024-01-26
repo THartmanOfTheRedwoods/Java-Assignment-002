@@ -27,7 +27,7 @@ public class Time {
         double secondssincemidnight2 = 38975.0;
 
         System.out.print("Percentage of the day has passed: ");
-        System.out.println(secondssincemidnight2 / dayseconds2 + "%");
+        System.out.println(secondssincemidnight2 / dayseconds2 * 100 + "%");
 
         int hour2 = 11;
         int minute2 = 19;
