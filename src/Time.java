@@ -19,7 +19,7 @@ public class Time {
  System.out.println("Percentage of the day passed: " + percentPassed + "%");
 
  int currentHour = 20;
- int currentMinute = 14;
+ int currentMinute = 17;
  int currentSecond = 15;
  int elapsedTime = ((currentHour - hour) * 3600) + ((currentMinute - minute) * 60) + (currentSecond - seconds);
  System.out.println("Elapsed time since starting this exercise: " + elapsedTime + " seconds");
