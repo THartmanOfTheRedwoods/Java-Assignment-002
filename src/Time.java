@@ -13,7 +13,7 @@ public class Time {
 
     double percentagePassed = (secondsSinceMidnight * 100.0) / totalSecondsInDay;
     System.out.println("Percentage of the day passed: " + percentagePassed + "%");
-
+//updating assignment completed times
     currentHour = 18;
     currentMinute =10;
     currentSecond = 30;
