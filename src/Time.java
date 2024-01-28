@@ -24,7 +24,7 @@ public class Time {
     int elapsedMinutes = elapsedTime / 60;
     int elapsedHours = elapsedMinutes / 60;
     elapsedMinutes %= 60;
-
+    elapsedTime %= 60;
     System.out.println("Total elapsed time: " + elapsedHours + " hours, " + elapsedMinutes + " minutes, " + elapsedTime + " seconds.");
     }
 }
