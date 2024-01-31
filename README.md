@@ -20,7 +20,6 @@ This exercise aims to (1) utilize arithmetic operators and (2) introduce the con
 
 **Hint:**
 Consider using additional variables to hold values during computation. Variables used in computation but not displayed are sometimes referred to as "intermediate" or "temporary" variables.
-
 ## Submission
 Just as you did in the first lab (Reference the Lab video in your Week 1 module):
 1. create a Feature01 branch of your code if you haven't already.
